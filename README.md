@@ -7,7 +7,7 @@ The most advanced, static web-based GUI for **Xray-core**. Manage your configura
 > [!IMPORTANT]
 > ### 🤝 Contributors Needed!
 > This project is built on **vibecoding** — almost the entire codebase was created using AI tools. The [`AGENTS.md`](AGENTS.md) file contains nearly all necessary instructions for AI agents.
-> If you want to add new features, fix bugs, or improve the UI/UX — feel free to fork the repository and submit a PR! Any contributions are welcome.
+> If you want to add new features, fix bugs, or improve the UI/UX — feel free to fork the repository and submit a PR! Any contributions are welcome. a
 > 
 > 💬 **Telegram Channel**: [https://t.me/xcue_dev](https://t.me/xcue_dev)
 
